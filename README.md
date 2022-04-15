@@ -1,4 +1,4 @@
-### Olá! Eu sou a Camila Carla Soares! 🙋‍♀️
+## Olá! Eu sou a Camila Carla Soares! 🙋‍♀️
 <br>
 
 ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=cobalt)
