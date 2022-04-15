@@ -1,13 +1,7 @@
 ### Olá! Eu sou a Camila Carla Soares! 🙋‍♀️
 <br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-carla-soares-092353232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo0cLnMxXTBmKQJ1T278AKQ%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](camilacarlasoaress@gmail.com)
-
 ![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## Tecnologias que eu uso no meu dia
 
@@ -17,3 +11,8 @@
     <img align="center" açt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-carla-soares-092353232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo0cLnMxXTBmKQJ1T278AKQ%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https//camilacarlasoaress@gmail.com)
