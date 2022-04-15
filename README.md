@@ -4,8 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-carla-soares-092353232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo0cLnMxXTBmKQJ1T278AKQ%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](camilacarlasoaress@gmail.com)
 
-
-![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=dracula)<br>
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=cobalt)<br>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,4 +15,4 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
