@@ -2,13 +2,7 @@
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-carla-soares-092353232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo0cLnMxXTBmKQJ1T278AKQ%3D%3D)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](camilacarlasoaress@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-carla-soares-092353232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo0cLnMxXTBmKQJ1T278AKQ%3D%3D)
 
 
 ![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=dracula)<br>
