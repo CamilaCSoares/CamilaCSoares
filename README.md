@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá! Eu sou a Camila Carla Soares! 🙋‍♀️
+<br>
 
-<!--
-**CamilaCSoares/CamilaCSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-carla-soares-092353232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo0cLnMxXTBmKQJ1T278AKQ%3D%3D)
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](camilacarlasoaress@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-carla-soares-092353232?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo0cLnMxXTBmKQJ1T278AKQ%3D%3D)
+
+
+![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=dracula)<br>
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block">
+    <img align="center" açt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" açt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" açt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
