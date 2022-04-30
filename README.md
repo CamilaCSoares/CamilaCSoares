@@ -4,9 +4,7 @@
 <div>
     <a href="https://github.com/CamilaCSoares">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+        
 ## 🧰 Tecnologias que eu uso no meu dia
 <br>
 
@@ -16,7 +14,8 @@
     <img align="center" açt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 <br>
-
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ##
 <div>
