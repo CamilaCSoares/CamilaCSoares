@@ -10,7 +10,7 @@
         
 ## 🧰 Tecnologias que eu uso no meu dia
 <br>
-<img align="right" alt="Camila-pic" height="180" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_U1Pm3mZc.png">
+<img align="right" alt="Camila-pic" height="180" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_65iFhek6.png">
 
 <div style="display: inline_block">
     <img align="center" açt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
