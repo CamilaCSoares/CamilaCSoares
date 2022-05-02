@@ -1,11 +1,13 @@
 ## Olá! Eu sou a Camila Carla Soares! 🙋‍♀️
 <br>
 
+<div align="center">
 <div>
     <a href="https://github.com/CamilaCSoares">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&layout=compact&langs_count=7&theme=dracula"/>
 </dic>
+</div>
         
 ## 🧰 Tecnologias que eu uso no meu dia
 <br>
