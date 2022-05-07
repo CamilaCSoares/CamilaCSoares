@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&langs_count=8&theme=dracula"/>
 </div>
 </div>
-        
+         
 ## 🧰 Tecnologias que eu uso no meu dia
 <br>
 <img align="right" alt="Camila-pic" height="180" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_65iFhek6.png">
