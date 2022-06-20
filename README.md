@@ -1,10 +1,11 @@
 ## Olá! Eu sou a Camila Carla Soares
 <br>
 
-📚 Estudante do Instituto Proa - Programadora Web Java;
-👩‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, SQL e Java;
-💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code;
+ 📚 Estudante do Instituto Proa - Programadora Web Java; <br>
+ 👩‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, SQL e Java; <br>
+ 💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code;
 
+<br>
 <div align="center">
   <a href="https://github.com/CamilaCSoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=dracula&count_private=true"/>
