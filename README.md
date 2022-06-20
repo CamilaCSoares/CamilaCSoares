@@ -1,5 +1,9 @@
-## Olá! Eu sou a Camila Carla Soares! 🙋‍♀️
+## Olá! Eu sou a Camila Carla Soares
 <br>
+
+📚 Estudante do Instituto Proa - Programadora Web Java;
+👩‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, SQL e Java;
+💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code;
 
 <div align="center">
   <a href="https://github.com/CamilaCSoares">
