@@ -6,11 +6,6 @@
  💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code;
 
 <br>
-<div align="center">
-  <a href="https://github.com/CamilaCSoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&langs_count=8&theme=dracula"/>
-</div>
 
 <div align="center">
   <a href="https://github.com/amandavalentim">
