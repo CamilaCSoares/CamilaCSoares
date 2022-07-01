@@ -13,16 +13,21 @@
 </div>
 </div>
          
-## 🧰 Tecnologias que eu uso no meu dia
+## 🧰 Tecnologias / Ferramentas que utilizo no meu dia
 <br>
 <img align="right" alt="Camila-pic" height="180" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_65iFhek6.png">
-
-<div style="display: inline_block">
-  <img align="center" açt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" açt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" açt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" açt="JavaScript" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div>  
+ 
+<div style="display: inline_block">  
+  <img padding="20em" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />          
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />          
+</div>   
 
 ##
 <div>
