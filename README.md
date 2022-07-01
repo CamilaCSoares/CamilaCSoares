@@ -2,7 +2,7 @@
 <br>
 
  📚 Estudante do Instituto Proa - Programadora Web Java; <br>
- 👩‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, Git, SQL e Java; <br>
+ 👩‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, SQL e Java; <br>
  💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code;
 
 <br>
