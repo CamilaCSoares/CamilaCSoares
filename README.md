@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/amandavalentim">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&langs_count=8&theme=dracula"/>
+  <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=CamilaCSoares&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&langs_count=8&theme=dracula"/>
 </div>
          
 ## 🧰 Tecnologias / Ferramentas que utilizo no meu dia
