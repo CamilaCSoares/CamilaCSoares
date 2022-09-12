@@ -15,7 +15,7 @@
          
 ## 🧰 Tecnologias / Ferramentas que utilizo no meu dia
 <br>
-<img align="right" alt="Camila-pic" height="180" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_65iFhek6.png">
+<img align="right" alt="Camila-pic" height="180" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202209/338224_Ri31BT7S.png">
  
 <div style="display: inline_block">  
   <img padding="20em" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
