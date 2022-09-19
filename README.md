@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Camila Carla Soares
 <br>
 
- 📚 Estudante do Instituto Proa - Programadora Web Java; <br>
+ 📚 Aluna da FATEC ZS - Análise e Desenvolvimento de Sistemas; <br>
+ 📚 Ex aluna do Instituto Proa - Programadora Web Java; <br>
  👩‍💻 Estudando HTML, CSS, Javascript, React.js, Bootstrap, SQL e Java; <br>
  💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code;
 
