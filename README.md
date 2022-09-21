@@ -4,7 +4,6 @@
  📚 Aluna da FATEC ZS - Análise e Desenvolvimento de Sistemas; <br>
  📚 Ex aluna do Instituto Proa - Programadora Web Java; <br>
  👩‍💻 Estudando HTML, CSS, Javascript, SQL, Python e Java; <br>
- //React.js, Bootstrap
  💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code;
 
 <br>
