@@ -3,7 +3,7 @@
 
  📚 Aluna da FATEC ZS - Análise e Desenvolvimento de Sistemas; <br>
  📚 Ex aluna do Instituto Proa - Programadora Web Java; <br>
- 👩‍💻 Estudando HTML, CSS, Javascript, SQL, Python e Java; <br>
+ 👩‍💻 Estudando Angular, TypeScript, Java, HTML, CSS, Javascript e SQL; <br>
  💻 Utilizo as ferramentas: Figma, Git, Trello, Canva, MySQL e Visual Studio Code;
 
 <br>
@@ -20,16 +20,17 @@
 <br>
 
 <div style="display: inline_block">  
-  <img padding="20em" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img height="30" width="40" align="center" src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img> 
+ <img  height="30" width="40" align="center"src="https://devicon-website.vercel.app/api/typescript/original.svg"></img>
+ <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+ <img padding="20em" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
-  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />          
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <img height="30" width="40" align="center" src="https://devicon-website.vercel.app/api/angularjs/original.svg"></img>
 </div>   
 
 ##
