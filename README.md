@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCSoares&langs_count=8&theme=dracula"/>
 </div>
 -->
-         
+   <!--      
 ## 🧰 Tecnologias / Ferramentas que utilizo no meu dia
 <br>
 
@@ -32,7 +32,7 @@
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />          
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>   
-
+-->
 ##
 <div>
   <a href="https://linkedin.com/in/camila-carla-soares"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a>
